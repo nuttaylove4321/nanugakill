@@ -3,5 +3,5 @@
   "versionName":"2.0.0",
   "content":"1.เทสอัพเดท1
 2.เทสอัพเดท2",
-  "minSupport":1, "url":"https://nanugakill.000webhostapp.com/NaNu-VPN%20Version%201.2.7.apk"
+  "minSupport":1, "url":"https://github.com/nuttaylove1234/nanugakill/blob/master/nanuapk.apk"
 }
