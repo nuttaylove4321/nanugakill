@@ -1,7 +1,10 @@
 {
   "versionCode":6,
   "versionName":"1.2.8",
-  "content":"TEST",
+  "content":"
+-หน้า UI ใหม่
+-เพิ่มความสเถียรของเซิร์ฟเวอร์
+-ล็อก SMALI",
   "minSupport":1,
   "url":"https://github.com/nuttaylove1234/nanugakill/raw/master/nanuapk.apk"
 }
